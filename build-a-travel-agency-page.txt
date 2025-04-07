@@ -1,0 +1,47 @@
+Build an app that is functionally similar to this example project. Try not to copy the example project, give it your own personal style.
+
+Fulfill the user stories below and get all the tests to pass to complete the lab.
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"/>
+  <title>Travel Agency Page</title>
+  <meta
+  name= "description"
+  content ="Travel arrangements to individuals or groups." 
+  />
+</head>
+<body>
+  <h1>Travel Destinations</h1>
+  <p>In our travel agency we included numerous packages for various travel destinations around the India.
+  </p>
+  <h2>Packages</h2>
+  <p>There are two different packages group or individuals.It's the passengers choice to choose from below options.</p>
+  
+  <ul>
+    <li><a href="https://www.freecodecamp.org/learn" target="_blank">Group Travels</a></li>
+    <li><a href="https://www.freecodecamp.org/learn" target="_blank">Private Tours</a></li>
+  </ul>
+  <h2>Top Itineraries</h2>
+  <figure>
+    <a href="https://www.freecodecamp.org/learn" target="_blank">
+    <img src="https://cdn.freecodecamp.org/curriculum/labs/colosseo.jpg" alt="colosseo">
+    </a>
+    <figcaption>Architecture</figcaption>
+  </figure>
+  <figure>
+    <a href="https://www.freecodecamp.org/learn" target="_blank">
+    <img src="https://cdn.freecodecamp.org/curriculum/labs/alps.jpg" alt="mountains">
+    </a>
+    <figcaption>Mountains</figcaption>
+  </figure>
+  <figure>
+    <a href="https://www.freecodecamp.org/learn" target="_blank">
+    <img src="https://cdn.freecodecamp.org/curriculum/labs/sea.jpg" alt="sea">
+    </a>
+    <figcaption>Blue Sea</figcaption>
+  </figure>
+
+</body>
+</html>
